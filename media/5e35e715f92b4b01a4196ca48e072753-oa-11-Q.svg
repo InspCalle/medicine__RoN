@@ -1,0 +1,29 @@
+<svg height="1085" width="500" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g display="inline">
+  <title>Labels</title>
+  <line fill="#FFEBA2" id="svg_35" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="320.38835" x2="344.66019" y1="127.62129" y2="82.96109"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="18" id="svg_36" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="381.5534" xml:space="preserve" y="81.99022">Trochlea</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <g class="qshape" id="5e35e715f92b4b01a4196ca48e072753-oa-11">
+   <g class="qshape">
+    <rect class="qshape" fill="#FF7E7E" height="35.92233" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="50.48544" x="392.23301" y="556.7475"/>
+   </g>
+   <rect class="qshape" fill="#FF7E7E" height="34.95146" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="66.99029" x="72.81553" y="560.631"/>
+  </g>
+  
+ </g>
+</svg>
