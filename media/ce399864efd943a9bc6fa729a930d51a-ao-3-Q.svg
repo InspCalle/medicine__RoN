@@ -1,0 +1,29 @@
+<svg height="638.0000000000001" width="440" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <rect fill="#ffffff" height="24.43182" id="svg_10" stroke="#ffffff" width="55.68182" x="72.49998" y="26.20454"/>
+  <rect fill="#ffffff" height="24.43182" id="svg_11" stroke="#ffffff" width="55.68182" x="73.63636" y="53.19319"/>
+  <rect fill="#ffffff" height="24.43182" id="svg_14" stroke="#ffffff" width="98.29546" x="217.95455" y="75.92046"/>
+  <rect fill="#ffffff" height="44.31818" id="svg_15" stroke="#ffffff" width="81.24999" x="46.93183" y="488.98864"/>
+  <rect fill="#ffffff" height="24.43182" id="svg_16" stroke="#ffffff" width="55.68182" x="56.59091" y="545.23864"/>
+  <text fill="#000000" font-family="Serif" font-size="12" id="svg_18" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="84.99998" xml:space="preserve" y="579.04545">Facies articularis carpea</text>
+  <text fill="#000000" font-family="Serif" font-size="12" id="svg_20" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="74.77271" xml:space="preserve" y="33.02272">Caput radii</text>
+  <text fill="#000000" font-family="Serif" font-size="12" id="svg_21" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="77.61362" xml:space="preserve" y="65.97727">Collum radii</text>
+  <text fill="#000000" font-family="Serif" font-size="12" id="svg_22" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="270.79543" xml:space="preserve" y="97.22727">Tuberositas radii</text>
+  <rect fill="#ffffff" height="24.43182" id="svg_23" stroke="#ffffff" width="64.77273" x="213.40909" y="398.64773"/>
+  <text fill="#000000" font-family="Serif" font-size="12" id="svg_24" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" style="cursor: move;" text-anchor="middle" x="244.65907" xml:space="preserve" y="410.86363">Incisura ulnaris</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="25" id="ce399864efd943a9bc6fa729a930d51a-ao-1" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="82.38636" x="29.31816" y="47.22727"/>
+  <rect fill="#FFEBA2" height="16.47727" id="ce399864efd943a9bc6fa729a930d51a-ao-2" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="66.47727" x="41.24998" y="21.65909"/>
+  <rect class="qshape" fill="#FF7E7E" height="18.18182" id="ce399864efd943a9bc6fa729a930d51a-ao-3" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="102.27273" x="226.47725" y="84.15909"/>
+  <rect fill="#FFEBA2" height="18.75" id="ce399864efd943a9bc6fa729a930d51a-ao-4" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="81.25" x="202.61362" y="396.65909"/>
+  <g id="ce399864efd943a9bc6fa729a930d51a-ao-5">
+   <rect fill="#FFEBA2" height="19.88636" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="126.70454" x="24.20453" y="567.11363"/>
+   <rect fill="#FFEBA2" height="27.27273" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="103.40909" x="66.81816" y="591.54545"/>
+   <rect fill="#FFEBA2" height="21.59091" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="118.75" x="216.24998" y="594.38636"/>
+  </g>
+ </g>
+</svg>
